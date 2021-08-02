@@ -1,10 +1,12 @@
 package framework.bean;
 
 
+import java.util.Date;
+
 public class HqDaily {
 
   private String tsCode;
-  private java.sql.Date tradeDate;
+  private Date tradeDate;
   private double open;
   private double high;
   private double low;
@@ -25,7 +27,7 @@ public class HqDaily {
   }
 
 
-  public java.sql.Date getTradeDate() {
+  public Date getTradeDate() {
     return tradeDate;
   }
 

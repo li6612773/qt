@@ -1,9 +1,11 @@
 package framework.bean;
 
 
+import java.util.Date;
+
 public class HqTopInst {
 
-  private java.sql.Date tradeDate;
+  private Date tradeDate;
   private String tsCode;
   private String exalter;
   private double buy;
@@ -15,7 +17,7 @@ public class HqTopInst {
   private String reason;
 
 
-  public java.sql.Date getTradeDate() {
+  public Date getTradeDate() {
     return tradeDate;
   }
 

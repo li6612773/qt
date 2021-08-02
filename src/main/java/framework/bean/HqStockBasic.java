@@ -1,6 +1,8 @@
 package framework.bean;
 
 
+import java.util.Date;
+
 public class HqStockBasic {
 
   private String tsCode;
@@ -9,7 +11,7 @@ public class HqStockBasic {
   private String area;
   private String industry;
   private String market;
-  private java.sql.Date listDate;
+  private Date listDate;
 
 
   public String getTsCode() {
@@ -66,7 +68,7 @@ public class HqStockBasic {
   }
 
 
-  public java.sql.Date getListDate() {
+  public Date getListDate() {
     return listDate;
   }
 

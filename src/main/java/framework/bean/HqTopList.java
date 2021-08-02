@@ -1,9 +1,11 @@
 package framework.bean;
 
 
+import java.util.Date;
+
 public class HqTopList {
 
-  private java.sql.Date tradeDate;
+  private Date tradeDate;
   private String tsCode;
   private String name;
   private double close;
@@ -20,7 +22,7 @@ public class HqTopList {
   private String reason;
 
 
-  public java.sql.Date getTradeDate() {
+  public Date getTradeDate() {
     return tradeDate;
   }
 
