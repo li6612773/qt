@@ -20,3 +20,13 @@
 2021-08-02  00:56:16.873 [main] WARN  framework.Main - ======测试日志warn级别打印=====
 2021-08-02  00:56:22.919 [main] ERROR framework.Main - =====测试日志error级别打印====
 2021-08-02  00:56:22.919 [main] WARN  framework.Main - ======测试日志warn级别打印=====
+2021-08-02  09:37:24.743 [main] ERROR framework.Main - =====测试日志error级别打印====
+2021-08-02  09:37:24.744 [main] WARN  framework.Main - ======测试日志warn级别打印=====
+2021-08-02  09:38:41.076 [main] ERROR framework.Main - =====测试日志error级别打印====
+2021-08-02  09:38:41.077 [main] WARN  framework.Main - ======测试日志warn级别打印=====
+2021-08-02  10:31:41.382 [main] ERROR framework.Main - =====测试日志error级别打印====
+2021-08-02  10:31:41.382 [main] WARN  framework.Main - ======测试日志warn级别打印=====
+2021-08-02  14:50:28.490 [main] ERROR framework.Main - =====测试日志error级别打印====
+2021-08-02  14:50:28.501 [main] WARN  framework.Main - ======测试日志warn级别打印=====
+2021-08-02  14:51:57.391 [main] ERROR framework.Main - =====测试日志error级别打印====
+2021-08-02  14:51:57.392 [main] WARN  framework.Main - ======测试日志warn级别打印=====
