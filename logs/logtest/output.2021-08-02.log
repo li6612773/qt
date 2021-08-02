@@ -1,88 +1,24 @@
-2021-08-02  00:52:52.301 [main] INFO  framework.Main - status:0
-2021-08-02  00:52:52.304 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:52:52.304 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:52:52.304 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:52:52.305 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:52:52.305 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:52:52.305 [main] INFO  framework.Main - ======杩欐槸鐢ㄥ崰浣嶇杈撳嚭鐨勬棩蹇�
-2021-08-02  00:52:52.305 [main] INFO  framework.Main - end!
-2021-08-02  00:53:28.965 [main] INFO  framework.Main - status:0
-2021-08-02  00:53:28.968 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:53:28.968 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:53:28.968 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:53:28.968 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:53:28.968 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:53:28.968 [main] INFO  framework.Main - ======杩欐槸鐢ㄥ崰浣嶇杈撳嚭鐨勬棩蹇�
-2021-08-02  00:53:28.969 [main] INFO  framework.Main - end!
-2021-08-02  00:53:43.543 [main] INFO  framework.Main - status:0
-2021-08-02  00:53:43.547 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:53:43.547 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:53:43.547 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:53:43.547 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:53:43.547 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:53:43.547 [main] INFO  framework.Main - 
-2021-08-02  00:53:43.547 [main] INFO  framework.Main - end!
-2021-08-02  00:54:24.986 [main] INFO  framework.Main - status:0
-2021-08-02  00:54:24.989 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:54:24.989 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:54:24.989 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:54:24.989 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:54:24.995 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:54:24.996 [main] INFO  framework.Main - ======杩欐槸鐢ㄥ崰浣嶇杈撳嚭鐨勬棩蹇�
-2021-08-02  00:54:24.996 [main] INFO  framework.Main - end!
-2021-08-02  00:54:32.757 [main] INFO  framework.Main - status:0
-2021-08-02  00:54:32.760 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:54:32.760 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:54:32.761 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:54:32.761 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:54:32.761 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:54:32.761 [main] INFO  framework.Main - ======杩欐槸鐢ㄥ崰浣嶇杈撳嚭鐨勬棩蹇�
-2021-08-02  00:54:32.761 [main] INFO  framework.Main - end!
-2021-08-02  00:54:54.292 [main] INFO  framework.Main - status:0
-2021-08-02  00:54:54.295 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:54:54.295 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:54:54.295 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:54:54.296 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:54:54.296 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:54:54.296 [main] INFO  framework.Main - ======杩欐槸鐢ㄥ崰浣嶇杈撳嚭鐨勬棩蹇�
-2021-08-02  00:54:54.296 [main] INFO  framework.Main - end!
-2021-08-02  00:55:13.561 [main] INFO  framework.Main - status:0
-2021-08-02  00:55:13.564 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:55:13.565 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:55:13.565 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:55:13.565 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:55:13.565 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:55:13.565 [main] INFO  framework.Main - 
-2021-08-02  00:55:13.565 [main] INFO  framework.Main - end!
-2021-08-02  00:55:52.315 [main] INFO  framework.Main - status:0
-2021-08-02  00:55:52.318 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:55:52.318 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:55:52.318 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:55:52.318 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:55:52.318 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:55:52.319 [main] INFO  framework.Main - 
-2021-08-02  00:55:52.319 [main] INFO  framework.Main - end!
-2021-08-02  00:56:06.588 [main] INFO  framework.Main - status:0
-2021-08-02  00:56:06.591 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:56:06.591 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:56:06.591 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:56:06.591 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:56:06.591 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:56:06.592 [main] INFO  framework.Main - 
-2021-08-02  00:56:06.592 [main] INFO  framework.Main - end!
-2021-08-02  00:56:16.869 [main] INFO  framework.Main - status:0
-2021-08-02  00:56:16.872 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:56:16.873 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:56:16.873 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:56:16.873 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:56:16.873 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:56:16.873 [main] INFO  framework.Main - ======杩欐槸鐢ㄥ崰浣嶇杈撳嚭鐨勬棩蹇�
-2021-08-02  00:56:16.873 [main] INFO  framework.Main - end!
-2021-08-02  00:56:22.914 [main] INFO  framework.Main - status:0
-2021-08-02  00:56:22.918 [main] INFO  framework.Main - sjli use slf4j.
-2021-08-02  00:56:22.918 [main] DEBUG framework.Main - =====娴嬭瘯鏃ュ織debug绾у埆鎵撳嵃====
-2021-08-02  00:56:22.918 [main] INFO  framework.Main - ======娴嬭瘯鏃ュ織info绾у埆鎵撳嵃=====
-2021-08-02  00:56:22.919 [main] ERROR framework.Main - =====娴嬭瘯鏃ュ織error绾у埆鎵撳嵃====
-2021-08-02  00:56:22.919 [main] WARN  framework.Main - ======娴嬭瘯鏃ュ織warn绾у埆鎵撳嵃=====
-2021-08-02  00:56:22.919 [main] INFO  framework.Main - ======杩欐槸鐢ㄥ崰浣嶇杈撳嚭鐨勬棩蹇�
-2021-08-02  00:56:22.919 [main] INFO  framework.Main - end!
+2021-08-02  10:31:41.354 [main] INFO  framework.Main - status:0
+2021-08-02  10:31:41.381 [main] INFO  framework.Main - sjli use slf4j.
+2021-08-02  10:31:41.381 [main] DEBUG framework.Main - =====测试日志debug级别打印====
+2021-08-02  10:31:41.382 [main] INFO  framework.Main - ======测试日志info级别打印=====
+2021-08-02  10:31:41.382 [main] ERROR framework.Main - =====测试日志error级别打印====
+2021-08-02  10:31:41.382 [main] WARN  framework.Main - ======测试日志warn级别打印=====
+2021-08-02  10:31:41.383 [main] INFO  framework.Main - ======这是用占位符输出的日�?
+2021-08-02  10:31:41.389 [main] INFO  framework.Main - end!
+2021-08-02  14:50:28.468 [main] INFO  framework.Main - status:0
+2021-08-02  14:50:28.490 [main] INFO  framework.Main - sjli use slf4j.
+2021-08-02  14:50:28.490 [main] DEBUG framework.Main - =====测试日志debug级别打印====
+2021-08-02  14:50:28.490 [main] INFO  framework.Main - ======测试日志info级别打印=====
+2021-08-02  14:50:28.490 [main] ERROR framework.Main - =====测试日志error级别打印====
+2021-08-02  14:50:28.501 [main] WARN  framework.Main - ======测试日志warn级别打印=====
+2021-08-02  14:50:28.503 [main] INFO  framework.Main - ======这是用占位符输出的日�?
+2021-08-02  14:50:28.504 [main] INFO  framework.Main - end!
+2021-08-02  14:51:57.386 [main] INFO  framework.Main - status:0
+2021-08-02  14:51:57.391 [main] INFO  framework.Main - sjli use slf4j.
+2021-08-02  14:51:57.391 [main] DEBUG framework.Main - =====测试日志debug级别打印====
+2021-08-02  14:51:57.391 [main] INFO  framework.Main - ======测试日志info级别打印=====
+2021-08-02  14:51:57.391 [main] ERROR framework.Main - =====测试日志error级别打印====
+2021-08-02  14:51:57.392 [main] WARN  framework.Main - ======测试日志warn级别打印=====
+2021-08-02  14:51:57.392 [main] INFO  framework.Main - ======这是用占位符输出的日�?
+2021-08-02  14:51:57.393 [main] INFO  framework.Main - end!
